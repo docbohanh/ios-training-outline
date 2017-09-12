@@ -1,5 +1,6 @@
 # iOS Training Outline For Internship
-==========================================
+
+Nơi lưu trữ tài liệu: \\192.168.1.20\video\devslopes-ios10
 
 Tài liệu này dùng để làm outline training cho sinh viên thực tập iOS và định hướng cũng như dựa vào đó để đánh giá các kiến thức sinh viên cần nắm được. Cuối mỗi tuần training Mentor cũng có thể phỏng vấn sinh viên theo các đề mục trong tài liệu này.
 
