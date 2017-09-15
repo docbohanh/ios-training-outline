@@ -4,12 +4,12 @@ Nơi lưu trữ tài liệu: \\192.168.1.20\video\devslopes-ios10
 
 Tài liệu này dùng để làm outline training cho sinh viên thực tập iOS và định hướng cũng như dựa vào đó để đánh giá các kiến thức sinh viên cần nắm được. Cuối mỗi tuần training Mentor cũng có thể phỏng vấn sinh viên theo các đề mục trong tài liệu này.
 
-Bài 1. Bắt đầu với iOS 10 và Swift 3 (8h)
+Bài 1. Bắt đầu với iOS 10 và Swift 3 (1 buổi)
 - Cài đặt Xcode 8
 – Làm quen với công cụ lập trình Xcode 8 và giao diện kéo thả Storyboard 
 - Build ứng dụng Swift đầu tiên
 
-Bài 2. Học ngôn ngữ Swift 3 (16h): 
+Bài 2. Học ngôn ngữ Swift 3 (2 buổi): 
 Property 
 – Strings
 – Numbers
@@ -24,7 +24,7 @@ Property
 - Inheritance
 - Polymorphism
 
-Bài 3. Quản lý source code với Git và Github (8h):
+Bài 3. Quản lý source code với Git và Github (1 buổi):
 - Cơ bản về Git
 - Thiết lập Github
 - Github vs Bitbucket
@@ -32,7 +32,7 @@ Bài 3. Quản lý source code với Git và Github (8h):
 - Xử lý conflict khi merge code
 - Github Desktop
 
-Bài 4. iOS Foundation (24h)
+Bài 4. iOS Foundation (3 buổi)
 - Tạo ứng dụng Miracle Pills với Autolayout
 - Miracle Pills - Width, Height, Leading, Trailling constraints
 - Miracle Pills - UIPickerView
@@ -56,7 +56,7 @@ Bài 4. iOS Foundation (24h)
 - Model View Controller (MVC)
 - Tạo Progress Bar với PaintCode
 
-Bài 5. Làm việc với REST và Web Requests trên iOS 10 và Swift 3 (48h)
+Bài 5. Làm việc với REST và Web Requests trên iOS 10 và Swift 3 (5 buổi)
 - Web request làm việc ntn trên iOS 10
 - Hiểu về JSON trên iOS 10
 - Giới thiệu App: Rainy Shine
@@ -88,7 +88,7 @@ Bài 5. Làm việc với REST và Web Requests trên iOS 10 và Swift 3 (48h)
 - Pokedex: Tải và prasing data
 - Pokedex: Hoàn thành Pokedex
 
-Bài 6. Data Persistence và Core Data (16h)
+Bài 6. Data Persistence và Core Data (2 buổi)
 - Giới thiệu ứng dụng Core Data
 - Tại sao sử dụng Core Data
 - Tổng quan kiến trúc Core Data
@@ -104,7 +104,7 @@ Bài 6. Data Persistence và Core Data (16h)
 - iOS 10 App: DreamLister - Xoá dữ liệu và thêm các ảnh
 - iOS 10 App: DreamLister - Sắp xếp dữ liệu
 
-Bài 7. Giao thức lập trình hướng đối tượng (POP) và Swift 3 nâng cao (8h)
+Bài 7. Giao thức lập trình hướng đối tượng (POP) và Swift 3 nâng cao (1.5 buổi)
 - Giới thiệu POP
 - Viết protocol đầu tiên
 - Tạo các extension protocol 
@@ -112,20 +112,20 @@ Bài 7. Giao thức lập trình hướng đối tượng (POP) và Swift 3 nân
 - Thực hành ví dụ sử dụng POP
 - Các hàm đệ quy
 
-Bài 8. Các tính năng mới trên iOS 10 (8h)
+Bài 8. Các tính năng mới trên iOS 10 (1 buổi)
 - iOS 10: iMessage Sticker App Extension 
 - iOS 10: Speech Recognition API
 - iOS 10: User Notifications - Xcode 8 Updates
 - iOS 10: User Notifications
 
-Bài 9. Xây dựng ứng dụng Full Stack với Firebase (16h)
+Bài 9. Xây dựng ứng dụng Full Stack với Firebase (2 buổi)
 - Giới thiệu Firebase 
 - Firebase Push Notifications - Tạo project
 - Firebase Push Notifications - Tạo một push certificate
 - Firebase Push Notifications - Viết code kết nối với Firebase messaging
 - Sắp xếp dữ liệu trong Firebase
 
-Bài 10. Maps, GPS, Geolocation, Pokemon và Firebase (24h)
+Bài 10. Maps, GPS, Geolocation, Pokemon và Firebase (3 buổi)
 - iOS 10 App: PokeFinder - Giới thiệu app
 - iOS 10 App: PokeFinder - Cài đặt Firebase và GeoFire
 - iOS 10 App: PokeFinder - Tuỳ chỉnh ảnh cho user location
@@ -134,7 +134,7 @@ Bài 10. Maps, GPS, Geolocation, Pokemon và Firebase (24h)
 - iOS 10 App: PokeFinder - Các quyền sử dụng location và ứng dụng cuối 
 - PokeFinder: Thực hành 
 
-Bài 11. Tạo một mạng xác hội với Firebase (16-24h)
+Bài 11. Tạo một mạng xác hội với Firebase (2-3 buổi)
 - iOS 10 App: Social Network Giới thiệu
 - iOS 10 App: Social Network - Các cập nhập trên Xcode 8 
 - iOS 10 App: Social Network - Cài đặt Firebase
@@ -158,7 +158,7 @@ Bài 11. Tạo một mạng xác hội với Firebase (16-24h)
 - iOS 10 App: Social Network - Firebase các mối liên hệ cơ sở dữ liệu
 - iOS 10 App: Social Network - Thực hành
 
-Bài 12. Trung cấp: Tạo một ứng dụng Snapchat với Firebase (16h)
+Bài 12. Trung cấp: Tạo một ứng dụng Snapchat với Firebase (2 buổi)
 - iOS 10 App: DevChat - Xcode 8 Các cải tiến
 - iOS 10 App: DevChat - Tạo ứng dụng và sử dụng code mẫu của Apple
 - iOS 10 App: DevChat - Refactor Apple's code và di chuyển các IBOutlet
@@ -175,7 +175,7 @@ Bài 12. Trung cấp: Tạo một ứng dụng Snapchat với Firebase (16h)
 - iOS 10 App: DevChat - Firebase lưu trữ - upload các video lên Firebase
 - iOS 10 App: DevChat - Gửi snap đầu tiên
 
-Bài 13. Kiến thức bổ sung - Thiết kế các ứng dụng di động với Sketch 3 (8-16h)
+Bài 13. Kiến thức bổ sung - Thiết kế các ứng dụng di động với Sketch 3 (1-2 buổi)
 - Tổng quan Sketch UI
 - Thiết kế ứng dụng đầu tiên trong Sketch
 - Các lớp cơ bản
@@ -189,7 +189,7 @@ Bài 13. Kiến thức bổ sung - Thiết kế các ứng dụng di động v�
 - Thiết kế trang profile Instagram
 - Các xuất các đồ hoạ (graphics)
 
-Bài 14. Thiết kế một ứng dụng Chat với Sketch 3 (8h)
+Bài 14. Thiết kế một ứng dụng Chat với Sketch 3 (1 buổi)
 - Giới thiệu ứng dụng
 - Tạo màn signup & login
 - Tạo inbox
@@ -197,13 +197,15 @@ Bài 14. Thiết kế một ứng dụng Chat với Sketch 3 (8h)
 - Tạo UI chat
 - Tạo các màn thiết lập
 
-Bài 15. Thiết kế một mạng xã hội Media trong Sketch 3 (8h)
+Bài 15. Thiết kế một mạng xã hội Media trong Sketch 3 (1 buổi)
 - Giới thiệu ứng dụng
 - Tạo màn login
 - Tạo UI đăng ký email
 - Thiết kế màn Home
 - Tạo màn post
 
-Bài tập lớn. Viết ứng dụng chuyển phát FAX dựa trên tài liệu được cung cấp (32h)
+### Tổng thời gian hoàn thành training: khoảng 30 buổi. (1 buổi = 8h training)
+
+Bài tập lớn. Viết ứng dụng chuyển phát FAX dựa trên tài liệu được cung cấp (4 buổi)
 
 
